@@ -21,4 +21,4 @@ For a given sheet:
 ## Miscellaneous
 To add titles to a graph, use `set_title()` on the main axis for each figure:
 
-`ax3.set_title(title, fontname="FOT-Comet Std", color="white", fontsize="24", pad=10)`
+`ax3.set_title("星街すいせい", fontname="FOT-Comet Std", color="white", fontsize="24", pad=10)`
