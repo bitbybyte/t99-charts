@@ -16,7 +16,7 @@ Generate Tetris 99-style graphs from game statistics.
 For a given sheet:
 |  Rank   | KOs      | VIP              |
 |---------|----------|------------------|
-| [0, 99] |  [0, 98] | {"Y", NULL}      |
+| [1, 99] |  [0, 98] | {"Y", NULL}      |
 
 ## Miscellaneous
 To add titles to a graph, use `set_title()` on the main axis for each figure:
